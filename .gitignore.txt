@@ -1,0 +1,10 @@
+
+/node_modules
+.pnp
+pnp.js
+/build
+tmp
+lib
+.DS_Store
+.idea
+db.json
